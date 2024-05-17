@@ -1,4 +1,4 @@
-## Pixel Streaming sample React application
+## Pixel Streaming sample Angular application
 
 A minimal sample application that uses the Pixel Streaming library in Angular.
 
